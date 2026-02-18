@@ -1,3 +1,15 @@
+### 02/17/2026
+
+8:40 PM
+
+<img src="./devlog-images/camera-design.JPG"/>
+
+I'm hung up on this tilting sensor, mostly so you can look down at the display
+
+I also thought of this raised/flange thing circular
+
+---
+
 ### 02/13/2026
 
 6:23 PM
