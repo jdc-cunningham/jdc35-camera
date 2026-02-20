@@ -1,3 +1,19 @@
+### 02/19/2026
+
+8:31 PM
+
+Thinking about colors
+
+This camera physicall/externally will be really simple, one physical button that is the shutter
+
+The display doesn't fold out but the sensor does, if you want to do a low photo of say a flower, you can flip the sensor upwards and then look down at your camera's screen
+
+<img src="./devlog-images/colors.JPG"/>
+
+Thinking about colors, I'm thinking of doing a split color like the pi-ro cam
+
+---
+
 ### 02/17/2026
 
 8:40 PM
