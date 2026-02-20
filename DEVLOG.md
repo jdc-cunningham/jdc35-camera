@@ -12,6 +12,10 @@ The display doesn't fold out but the sensor does, if you want to do a low photo 
 
 Thinking about colors, I'm thinking of doing a split color like the pi-ro cam
 
+This also will not use an 18650 battery, it'll use a flat cell
+
+So the handle is purely for ergonomics/not housing an 18650 cell
+
 ---
 
 ### 02/17/2026
