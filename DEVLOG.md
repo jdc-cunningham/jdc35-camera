@@ -1,3 +1,31 @@
+### 02/22/2026
+
+8:47 AM
+
+I'm going to design this camera, I'm sold on the grey and yellow design (back plate is yellow)
+
+It's going to be much simpler hardware wise
+
+No IMU, no secondary screen, no physical buttons except the shutter
+
+The other thing I want is a bluetooth mobile app so the photos are immeidately transferred to my phone upon being taken
+
+That way the device is kind of disposable in a way
+
+It's still expensive but after seeing the 640x480 resolution it's tough to go back to a SPI display. The DSI display is brighter too.
+
+I could get by the low resolution using OSD focus hints eg. laplace variance number or that FocusFOM
+
+I'm also thinking this sensor (and lenses) in my experience seems to be more suitable for street photography and buildings (big objects with the same color)
+
+Where I live too, it's kind of boring nature/landscape wise so I think it will be good when I get more brave and go into towns/downtown areas
+
+But yeah, I'm going to get Pi 4B 1GB RAM, it still seems stupid to use a full computer but it interfaces with all the parts as is
+
+But the price will go down, if I use less/cheaper parts, like the SD card instead of 128GB I can just a 32GB one.
+
+---
+
 ### 02/19/2026
 
 8:31 PM
