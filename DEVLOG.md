@@ -24,6 +24,12 @@ But yeah, I'm going to get Pi 4B 1GB RAM, it still seems stupid to use a full co
 
 But the price will go down, if I use less/cheaper parts, like the SD card instead of 128GB I can just a 32GB one.
 
+8:52 PM
+
+I won't build this new camera until I finish Pelicam though
+
+That includes both DSI display and SPI display
+
 ---
 
 ### 02/19/2026
