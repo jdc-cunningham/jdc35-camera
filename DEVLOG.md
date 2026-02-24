@@ -1,3 +1,15 @@
+### 02/23/2026
+
+8:50 PM
+
+Put the push button switch on top-left, no on back plate
+
+back plate top-left
+
+I'm going with the push button switches because the slide ones are cheap/break
+
+---
+
 ### 02/22/2026
 
 8:47 AM
