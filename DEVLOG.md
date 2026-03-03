@@ -18,6 +18,20 @@ They say you should use 8GB RAM but I'll try to use 4GB... idk, the thing is it'
 
 But... might as well commit ha.
 
+6:48 PM
+
+The main reason I wanted to make another camera after the blue-green one (JDC34) is the flange not being adjustable... that was kind of a fail on my part although I had a specific design/vision in mind.
+
+So the newer cameras if using the HQ cam will have adjustable flanges (meaning the flat head screw is accessible).
+
+JDC34 is such a neat camera though how bulky it is and the angle on the display vs. the roundess of the body
+
+Oh yeah, I'm gonna design some kind of 3D printed rench thing that can clamp/twist the C-CS adapter without damaging it (from metal pliers)
+
+It actually could just be a circle thing you put over the C-CS adapter
+
+Like a magnifying glass with geared circumference
+
 ---
 
 ### 02/23/2026
