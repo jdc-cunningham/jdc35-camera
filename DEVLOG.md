@@ -34,6 +34,12 @@ It actually could just be a circle thing you put over the C-CS adapter
 
 Like a magnifying glass with geared circumference
 
+11:01 PM
+
+This is the ratcheting sensor tilt mechanism and also neck strap rods
+
+<img src="./devlog-images/designs.JPG"/>
+
 ---
 
 ### 02/23/2026
