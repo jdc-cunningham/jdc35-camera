@@ -1,3 +1,25 @@
+### 03/02/2026
+
+6:12 PM
+
+While I am pretty busy, 40hr week day job, trying to launch an app like a startup, I am still gonna build new cameras like this one. Today I had this thought of a camera a month but that's a little excessive. So I think I can do one every 2 months... I have at least 5 other cameras including this one, all unique in their own way/purpose.
+
+I ordered the parts for this one so I'll have this camera built before April ends.
+
+I ordered 3 more lenses... so I kinda spent more money there than I should have. I am using parts I already have for this camera so this one for example will use an Arducam IMX477 that I already have. It'll be overpowered with a 2GB Pi 4B, I decided it can use 1GB ram if using a DSI display.
+
+One of the cameras will have a mic/speaker and an on-board LLM so that one will need a higher RAM board.
+
+This particular purpose is giving the camera "life". It should have an IMU as well so it can feel itself moving.
+
+They say you should use 8GB RAM but I'll try to use 4GB... idk, the thing is it's not doing much it's primarily for talking, I'm still unsure what it will do.
+
+8GB for some reason seems excessive and the price is almost double the 4GB version at $75.
+
+But... might as well commit ha.
+
+---
+
 ### 02/23/2026
 
 8:50 PM
