@@ -46,6 +46,10 @@ Like a stream of thought, words sprinkled across the OSD that could be neat
 
 Something like "I spy...." these words would be translating/rotating/moving across the scene
 
+8:45 PM
+
+Hmm... maybe not during the passthrough, looks like the FPS will severely drop into the single digits
+
 ---
 
 ### 03/02/2026
