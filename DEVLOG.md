@@ -1,3 +1,15 @@
+- [ ] modeling
+  - [ ] Arducam IMX477
+  - [ ] RPi 4B
+  - [ ] DC-DC boost converter
+  - [ ] 3000 mAh 1S lipo
+  - [ ] USB-C battery charger
+  - [ ] shutter button
+
+- [ ] design body
+  - [ ] prototype plastic hinge/lock mechanism
+  - [ ] make screw pegs thicker
+
 - [ ] make wrench for C-CS adapter
 
 ### 03/03/2026
@@ -23,6 +35,16 @@ It's funny I feel bad that these RPi's have 4GB of ram, it's a complete waste...
 Can see this camera looks more like a normal camera.
 
 Except that the sensor flips out.
+
+8:19 PM
+
+I've been thinking about the onboard LLM, 4GB limit since 8GB is too expensive
+
+It could look at the image and from the detected items say something on the overlay
+
+Like a stream of thought, words sprinkled across the OSD that could be neat
+
+Something like "I spy...." these words would be translating/rotating/moving across the scene
 
 ---
 
