@@ -50,6 +50,8 @@ Something like "I spy...." these words would be translating/rotating/moving acro
 
 Hmm... maybe not during the passthrough, looks like the FPS will severely drop into the single digits
 
+In theory at least for the IMU-equipped cameras, they can do VIO
+
 ---
 
 ### 03/02/2026
