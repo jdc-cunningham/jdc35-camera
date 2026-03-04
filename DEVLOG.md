@@ -1,5 +1,17 @@
 - [ ] make wrench for C-CS adapter
 
+### 03/03/2026
+
+6:44 PM
+
+Geting some parts in
+
+<img src="./devlog-images/2-brothers.JPG"/>
+
+Mmm grey in the front, yellow in the back
+
+---
+
 ### 03/02/2026
 
 6:12 PM
