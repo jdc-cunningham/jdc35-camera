@@ -12,6 +12,18 @@ Mmm grey in the front, yellow in the back
 
 I also got the 3000mAh single cell lipos in damn they are fat
 
+8:05 PM
+
+<img src="./devlog-images/design-1.JPG"/>
+
+<img src="./devlog-images/design-2.JPG"/>
+
+It's funny I feel bad that these RPi's have 4GB of ram, it's a complete waste... the current code barely runs near 500 MB so going forward unless it'll run an LLM I'm trying to use the 1GB RPis.
+
+Can see this camera looks more like a normal camera.
+
+Except that the sensor flips out.
+
 ---
 
 ### 03/02/2026
