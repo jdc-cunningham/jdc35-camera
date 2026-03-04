@@ -10,6 +10,8 @@ Geting some parts in
 
 Mmm grey in the front, yellow in the back
 
+I also got the 3000mAh single cell lipos in damn they are fat
+
 ---
 
 ### 03/02/2026
