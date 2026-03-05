@@ -30,7 +30,9 @@ I was trying to design the hinge sensor thing as a square will have to see
 
 Maybe I just make it bigger so it holds Arducam and then the RPi version fits inside that
 
+7:48 AM
 
+Alright that's pretty good, did some modeling, brought over existing models
 
 ---
 
