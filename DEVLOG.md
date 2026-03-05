@@ -18,6 +18,20 @@
 
 Going to start some modeling work
 
+7:23 PM
+
+Ehh... the RPi HQ cam and Arducam IMX477 are different
+
+Namely the plastic lens holder thing, on the Arducam the tripod mount is not detachable... that means it has a larger footprint (this is the word I was looking for one time)
+
+Also the way it locks the adjustable flange is different, it's top-to-bottom vs. sideways like on RPi HQ cam
+
+I was trying to design the hinge sensor thing as a square will have to see
+
+Maybe I just make it bigger so it holds Arducam and then the RPi version fits inside that
+
+
+
 ---
 
 ### 03/03/2026
