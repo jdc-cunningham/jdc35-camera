@@ -12,6 +12,14 @@
 
 - [ ] make wrench for C-CS adapter
 
+### 03/04/2026
+
+7:06 PM
+
+Going to start some modeling work
+
+---
+
 ### 03/03/2026
 
 6:44 PM
