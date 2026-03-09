@@ -24,6 +24,22 @@ But I got a Pi 4B with an SD card, raspbian on it, Arducam plugged in
 
 Trying to run mjpeg server on there just to focus the camera
 
+8:06 PM
+
+Well... it turns out I can't focus the Som 25mm Lytar on the Arducam
+
+It has to not have a C-CS ring and the lens has to be pretty much unthreaded to fit...
+
+So... I'll just steal the RPi HQ cam sensor from the Modular Pi Cam since that camera is getting retired anyway with its poor display.
+
+8:23 PM
+
+man that lens is so good, it's sharp
+
+I'll start designing the body even if I don't have all the physical parts
+
+this camera is a lot simpler than JDC34 so it'll be faster to design although I have to print some new things like the snapping/angle swivel thing for the sensor mount
+
 ---
 
 ### 03/04/2026
