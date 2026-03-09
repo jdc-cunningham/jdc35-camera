@@ -12,6 +12,20 @@
 
 - [ ] make wrench for C-CS adapter
 
+### 03/08/2026
+
+7:56 PM
+
+Still don't have the DSI display for this camera, I have modeled it but I'm not sure if Amazon will come through or if I have to buy it from Waveshare
+
+I also have a distraction with this EEE PC I bought which I'm going to use as an agent harness client
+
+But I got a Pi 4B with an SD card, raspbian on it, Arducam plugged in
+
+Trying to run mjpeg server on there just to focus the camera
+
+---
+
 ### 03/04/2026
 
 7:06 PM
