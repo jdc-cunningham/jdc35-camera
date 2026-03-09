@@ -40,6 +40,8 @@ I'll start designing the body even if I don't have all the physical parts
 
 this camera is a lot simpler than JDC34 so it'll be faster to design although I have to print some new things like the snapping/angle swivel thing for the sensor mount
 
+I'm "trying" not to spend more money, although I've got my eye on another 10mm C-mount lens... since the Som 10mm I have is not great, it's usable but the clarity is lower than the Kodak 152mm or this Som 25mm
+
 ---
 
 ### 03/04/2026
