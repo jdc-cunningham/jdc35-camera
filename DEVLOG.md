@@ -22,6 +22,14 @@ I'm still not very motivated but trying to make another camera. I'm not really a
 
 I'm still working on a desing for this camera. I know I want the display to be prominant, rising above the body with a fillet around it.
 
+8:47 PM
+
+I don't really have a specific design for this camera other than making it basic and the color scheme grey and yellow. Also the other main reason is I wanted to use this lens which needs to adjust the flange to focus.
+
+<img src="./devlog-images/basic-design.JPG"/>
+
+This will be designed to have a left and right hand mode regarding the grip and the buttons.
+
 ### 03/08/2026
 
 7:56 PM
