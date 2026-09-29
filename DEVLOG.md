@@ -1,16 +1,26 @@
 - [ ] modeling
-  - [ ] Arducam IMX477
+  - [ ] Raspberry Pi HQ Cam Sensor
   - [ ] RPi 4B
   - [ ] DC-DC boost converter
   - [ ] 3000 mAh 1S lipo
   - [ ] USB-C battery charger
   - [ ] shutter button
+  - [ ] back push button
+  - [ ] power button
 
 - [ ] design body
   - [ ] prototype plastic hinge/lock mechanism
   - [ ] make screw pegs thicker
 
 - [ ] make wrench for C-CS adapter
+
+### 09/28/2026
+
+6:40 PM
+
+I'm still not very motivated but trying to make another camera. I'm not really able to go anywhere right now since my car got totaled. I'm also trying to get back my old passion/happiness from building stuff.
+
+I'm still working on a desing for this camera. I know I want the display to be prominant, rising above the body with a fillet around it.
 
 ### 03/08/2026
 
