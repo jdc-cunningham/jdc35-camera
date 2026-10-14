@@ -34,6 +34,16 @@ I'm seeing like a yellow x in my mind
 
 I'm not saying it will look like this but it will look like something with color and character
 
+12:24 AM
+
+What's bad is I can't easily design a shape like that with SketchUp I could do some janky similar thing but yeah.
+
+The main thing is I don't want a solid color, it has to be multi-color like it has layers.
+
+Here's a simpler one
+
+<img src="./devlog-images/design-multi-color.JPG"/>
+
 ---
 
 ### 09/28/2026
