@@ -14,6 +14,28 @@
 
 - [ ] make wrench for C-CS adapter
 
+### 10/14/2026
+
+12:16 AM
+
+Alright so I was browsing random DIY cameras trying to get motivation
+
+I started seeing a lot of plain looking cameras you know, basic bodies
+
+What is nice about a thing is character, charming
+
+Anyway I had this random thought of this camera looking like this:
+
+<img src="./devlog-images/what.JPG"/>
+
+Which where tf did that come from... but probably x-men I guess.
+
+I'm seeing like a yellow x in my mind
+
+I'm not saying it will look like this but it will look like something with color and character
+
+---
+
 ### 09/28/2026
 
 6:40 PM
