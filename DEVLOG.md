@@ -34,6 +34,8 @@ I was looking at a sketchup tutorial on designing curved surfaces.
 
 BUt yeah as I mentioned I'm not really feeling a specific design, I'm more concerned about the hardware... I do like the design above.
 
+The one thing to note, the grip curvature goes backwards too. So it's not like the back is just flat.
+
 ---
 
 ### 10/14/2026
