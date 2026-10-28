@@ -14,6 +14,28 @@
 
 - [ ] make wrench for C-CS adapter
 
+### 10/28/2026
+
+5:04 PM
+
+So I'm not really feeling a specific design
+
+I drew this one recently... I saw this solid yellow instax mini 9 cameara which made me think I do want a "solid yellow" camera.
+
+Although below I have added grips that would be a dark contrast.
+
+<img src="./devlog-images/design2.JPG"/>
+
+I guess I could put the power button in the grip. Counter sunk in/flush with the handle. Idk though that's a seem location for the two panels to join.
+
+The shutter button I'm thinking about having it pointing forwards a little so it's naturally under your finger.
+
+I was looking at a sketchup tutorial on designing curved surfaces.
+
+BUt yeah as I mentioned I'm not really feeling a specific design, I'm more concerned about the hardware... I do like the design above.
+
+---
+
 ### 10/14/2026
 
 12:16 AM
