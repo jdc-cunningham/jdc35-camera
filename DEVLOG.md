@@ -52,6 +52,14 @@ Seems like it looks worse, it does give it more features, not just a uniform yel
 
 I'm liking this look though I can go with this design
 
+10:28 PM
+
+What's bad is I'm tempted to add a speaker with an amp and a mic to this. That way it can make sound and I can talk to it via STT and run a small model considering this Pi has 4GB of ram on it kind of a waste not to use.
+
+I have another camera designed for this. This one is supposed to be a simple one.
+
+Lol my right arrow key on my keyboard just peaced out.
+
 ---
 
 ### 10/14/2026
