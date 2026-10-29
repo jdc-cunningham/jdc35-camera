@@ -14,6 +14,20 @@
 
 - [ ] make wrench for C-CS adapter
 
+### 10/29/2026
+
+12:34 AM
+
+I'm really liking this look
+
+<img src="./devlog-images/cam-screws.JPG"/>
+
+Can see how the screws would work, two yellow half shells come together around the parts. Then the grey grip parts go around which are also plastic.
+
+Could add texture to it
+
+---
+
 ### 10/28/2026
 
 5:04 PM
