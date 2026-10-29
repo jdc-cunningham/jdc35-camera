@@ -36,6 +36,20 @@ BUt yeah as I mentioned I'm not really feeling a specific design, I'm more conce
 
 The one thing to note, the grip curvature goes backwards too. So it's not like the back is just flat.
 
+9:27 PM
+
+I think to pull this look off for real I'll need to add panel gaps and use like a permanent marker to color them black so it pops like this.
+
+That would make it cool and it won't be solid in certain areas like the two semi-circles surrounding the sensor mount would be a lighter incomplete black circle
+
+I initially thought I'd put the wrist strap on the bottom of the camera but actually the top right might make more sense.
+
+Hmm idk
+
+<img src="./devlog-images/strap.JPG"/>
+
+Seems like it looks worse, it does give it more features, not just a uniform yellow block thing but I like the cleaner top look
+
 ---
 
 ### 10/14/2026
