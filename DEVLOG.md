@@ -50,6 +50,8 @@ Hmm idk
 
 Seems like it looks worse, it does give it more features, not just a uniform yellow block thing but I like the cleaner top look
 
+I'm liking this look though I can go with this design
+
 ---
 
 ### 10/14/2026
