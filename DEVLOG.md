@@ -26,6 +26,10 @@ Can see how the screws would work, two yellow half shells come together around t
 
 Could add texture to it
 
+Was also thinking about the menu system, I want transparent like tiles matching the color of the body
+
+<img src="./devlog-images/menu.JPG"/>
+
 ---
 
 ### 10/28/2026
