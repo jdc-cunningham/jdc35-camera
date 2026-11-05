@@ -14,6 +14,18 @@
 
 - [ ] make wrench for C-CS adapter
 
+- [ ] black and white filter
+
+### 11/04/2026
+
+6:20 PM
+
+I'm going to pick up work on this hopefully latest by this weekend
+
+I want to bust out the camera design/start printing it
+
+But I did have a thought about adding a black and white preview which is easy to do through OpenCV (unless that's only grey scale)
+
 ### 10/29/2026
 
 12:34 AM
