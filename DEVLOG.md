@@ -1,6 +1,6 @@
 - [ ] modeling
   - [ ] Raspberry Pi HQ Cam Sensor
-  - [ ] RPi 4B
+  - [ ] RPi 3B
   - [ ] DC-DC boost converter
   - [ ] 3000 mAh 1S lipo
   - [ ] USB-C battery charger
@@ -9,12 +9,11 @@
   - [ ] power button
 
 - [ ] design body
-  - [ ] prototype plastic hinge/lock mechanism
   - [ ] make screw pegs thicker
 
 - [ ] make wrench for C-CS adapter
 
-- [ ] black and white filter
+- [ ] black and white software filter
 
 ### 11/16/2026
 
