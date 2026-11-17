@@ -26,6 +26,12 @@ I will build this camera before Dec 1st when I move into my new apt where I can 
 
 Also going to use a Pi 3B for the board 1GB ram my old house server
 
+11:35 PM
+
+I moved some 3D parts into the assembly file, that'll be where I design the body
+
+Still need more parts
+
 ---
 
 ### 11/04/2026
