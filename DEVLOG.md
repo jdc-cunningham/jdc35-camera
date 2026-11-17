@@ -16,6 +16,18 @@
 
 - [ ] black and white filter
 
+### 11/16/2026
+
+9:07 PM
+
+I want to work on this... trying to get motivation
+
+I will build this camera before Dec 1st when I move into my new apt where I can start walking around doing urban photography
+
+Also going to use a Pi 3B for the board 1GB ram my old house server
+
+---
+
 ### 11/04/2026
 
 6:20 PM
